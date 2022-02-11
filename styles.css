@@ -69,8 +69,32 @@ margin: 0 auto;
   padding-right: 10px;
 }
 
+#conteudo{
+  width: 960px;
+  margin: 0 auto;
+  position: relative;
+  min-height: 85%;
+  padding-top: 5px;
+}
 
+#esquerda{
+  margin-top: 50px;
+  width: 60%;
+  float: left;
+}
 
+#esquerda p{
+  font-size: 10pt;
+  text-align: justify;
+  margin-left: 20px;
+}
+
+#direita{
+  margin-top: 5px;
+  width: 350px;
+  float: right;
+  text-align: center;
+}
 
 
 
