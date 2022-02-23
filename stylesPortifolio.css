@@ -1,3 +1,40 @@
 #barra_nav{
   background-color: bisque;
 }
+#direita{ 
+  margin-top: 5px;
+  width: 25%;
+  height: 359px;
+  float: right;
+  min-height: 120%;
+  text-align: center;
+  font-size:10pt;
+}
+#esquerda{
+  margin-top: 50px;
+  width: 70%;
+  float: left;
+}
+#rodape{
+  background-color: bisque;
+  position: relative;
+  width: 100%;
+  height: 5%;
+}
+#followus{
+  width: 300px;
+  height: 100%;
+  float: right;
+}
+ 
+#followus table{
+  color: white;
+  margin: 0 auto;
+  margin-right: 2px;
+  height: 100%;
+}
+ 
+#followus table td{
+  padding-right: 10px;
+}
+
