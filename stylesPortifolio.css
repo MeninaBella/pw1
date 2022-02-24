@@ -1,6 +1,9 @@
 #barra_nav{
   background-color: bisque;
 }
+#margem{
+  margin: 0 auto;
+}
 #direita{ 
   margin-top: 5px;
   width: 25%;
