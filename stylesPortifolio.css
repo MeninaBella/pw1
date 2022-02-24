@@ -4,6 +4,7 @@
 #margem{
   margin: 0 auto;
 }
+
 #direita{ 
   margin-top: 5px;
   width: 25%;
@@ -15,7 +16,7 @@
 }
 #esquerda{
   margin-top: 50px;
-  width: 70%;
+  width: 50%;
   float: left;
 }
 #rodape{
